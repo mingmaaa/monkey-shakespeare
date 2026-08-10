@@ -38,8 +38,7 @@ to experiment with different phrases or convergence speeds.
 
 ![monkey-shakespeare demo](demo.gif)
 
-*(Actual generation counts vary between runs since selection, crossover, and
-mutation are all randomized. Evolution doesn't do consistency.)*
+
 
 ## Credits
 
