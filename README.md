@@ -36,7 +36,7 @@ to experiment with different phrases or convergence speeds.
 
 ## Example output
 
-![monkey-shakespeare demo](demo.gif?v=3)
+![demo](demo.gif?v=4)
 
 
 
