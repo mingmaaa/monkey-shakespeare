@@ -36,15 +36,7 @@ to experiment with different phrases or convergence speeds.
 
 ## Example output
 
-```
-Gen    0 | Fitness 0.0331 | Best: 'jptbsaerynmcdkogbqcau '
-Gen   10 | Fitness 0.2975 | Best: 'j wbst mmnmcdk t  cvdr'
-Gen   36 | Fitness 0.6694 | Best: 'a wise mynmcak to cade'
-Gen   58 | Fitness 0.9112 | Best: 'a wise myn can to code'
-Gen  118 | Fitness 1.0000 | Best: 'a wise man can to code'
-
-Target matched in 118 generations!
-```
+![monkey-shakespeare demo](demo.gif)
 
 *(Actual generation counts vary between runs since selection, crossover, and
 mutation are all randomized. Evolution doesn't do consistency.)*
