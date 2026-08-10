@@ -1,7 +1,7 @@
 import random
 import string
 
-TARGET = "a wise man can to code"
+TARGET = "a wise man can code"
 POPULATION_SIZE = 250
 MUTATION_RATE = 0.01
 VALID_CHARS = string.ascii_lowercase + " "
